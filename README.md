@@ -15,4 +15,4 @@ node app.js
 ```
 
 ## Example
-[Imgur](https://i.imgur.com/mamJyNi.gifv)
+[Imgur](https://i.imgur.com/9yrdJfk.mp4)
